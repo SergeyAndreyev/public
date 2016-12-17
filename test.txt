@@ -1,5 +1,9 @@
 print("Hello world");
 print();
 print("Hello everybody");
+<<<<<<< HEAD
 
 123
+=======
+print();
+>>>>>>> feature/goodby
